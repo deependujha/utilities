@@ -14,7 +14,6 @@ on:
         required: false
         type: string
         default: ""
-
       force-check-all:
         description: "Force check all files, even if not modified (keep empty for default behavior)"
         required: false
