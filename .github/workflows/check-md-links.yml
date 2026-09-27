@@ -19,7 +19,6 @@ on:
         required: false
         type: string
         default: ""
-
       use-quiet-mode:
         description: "Use quiet mode for markdown link checks"
         required: false
