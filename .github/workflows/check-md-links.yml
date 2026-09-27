@@ -9,7 +9,6 @@ on:
         required: true
         type: string
         default: "master"
-
       config-file:
         description: "Config file (JSON) used for markdown link checks"
         required: false
